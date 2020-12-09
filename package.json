@@ -1,0 +1,17 @@
+{
+  "name": "@lookback/esbuild-ts-register",
+  "description": "Simple register for ts using esbuild",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lookback/loltest.git"
+  },
+  "scripts": {},
+  "author": "Martin Algesten",
+  "license": "ISC",
+  "dependencies": {
+    "pirates": "^4",
+    "esbuild": "^0.8"
+  }
+}
