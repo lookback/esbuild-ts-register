@@ -1,3 +1,7 @@
+// This enables nodejs worker API instead of spawing a process
+// per invocation of esbuild
+process.env.ESBUILD_WORKER_THREADS = 1;
+
 const esbuild = require("esbuild");
 const pirates = require("pirates");
 
