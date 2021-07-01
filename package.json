@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lookback/loltest.git"
+    "url": "git+https://github.com/lookback/esbuild-ts-register.git"
   },
   "scripts": {},
   "author": "Martin Algesten",
