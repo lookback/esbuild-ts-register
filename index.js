@@ -10,7 +10,7 @@ const compile = (ts) => {
     loader: "ts",
     logLevel: "error",
     format: "cjs",
-    target: "node12.14",
+    target: "node16",
   });
 
   for (const warning of warnings) {

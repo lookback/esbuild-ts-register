@@ -11,7 +11,7 @@
   "author": "Martin Algesten",
   "license": "ISC",
   "dependencies": {
-    "esbuild": "^0.12.13",
+    "esbuild": "^0.14",
     "pirates": "^4"
   }
 }
